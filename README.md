@@ -1,16 +1,33 @@
-## Hi there 👋
+# Giovana-Fertunani
 
-<!--
-**giovanafertunani-dotcom/giovanafertunani-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+## Olá! Eu sou a Giovana Fertunani
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho como assistente de qualidade
+- 🌱 Estudante de Engenharia de Software na Unicesumar
+<div>
+<a href="https://github.com/giovanafertunani-dotcom"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanafertunani-dotcom&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanafertunani-dotcom&layout=compact&theme=radical)
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giovanafertunani-dotcom/giovanafertunani-dotcom/output/github-contribuition-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giovanafertunani-dotcom/giovanafertunani-dotcom/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+<div> 
+  <a href="https://www.instagram.com/giovana_fertunani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fertunanigi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/giovana-fertunani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ 
+
+</div>
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/murilobbonvechio/murilobbonvechio/blob/output/github-snake-dark.svg)
+</div>
